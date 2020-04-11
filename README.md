@@ -1,2 +1,2 @@
 # Dart-Score-Game-Tracker
-This is my final project for CS021.
+This is my final project for CS021. It is a dart scoring tracker which can track up to 4 different players and has two different game modes. It will ask the user for the nunber of players 1-4, and then will ask for names for the names of each of the players. It will then ask for the game type of 301 or 501 and the game will start. Each player will enter their score, that score will be subtracted from the value of the game type and this will repeat until a player gets a score of 0.
